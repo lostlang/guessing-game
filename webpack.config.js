@@ -1,8 +1,8 @@
 module.exports = {
-	entry: { app: './index.js' },
+	entry: { app: "./index.js" },
 	output: {
-		path: './',
-		filename: 'app.bundle.js'
+		path: "./",
+		filename: "app.bundle.js",
 	},
-	devtool: 'source-map'
+	devtool: "source-map",
 };
